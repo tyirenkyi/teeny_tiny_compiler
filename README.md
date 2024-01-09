@@ -30,7 +30,7 @@ Here are a list of features I'll be adding to improve the Teeny Tiny language:
 8. Comments
 
 # Instructions for use
-1. Create a file with *teeny* as the file extension. eg: hello.teeny
+1. Create a file with *teeny* as the file extension. eg: `hello.teeny`
 2. Write your teeny program. eg program:
 ```
 PRINT "How many fibonacci numbers do you want?"
