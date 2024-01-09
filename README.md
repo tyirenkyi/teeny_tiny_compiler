@@ -1,6 +1,6 @@
 ## Teeny Tiny compiler
 
-I built this compiler by following [Austin Henley's](https://github.com/AZHenley) Teeny Tiny compiler [blog series](https://austinhenley.com/blog/teenytinycompiler1.html) which is implemented in Python. The Teeny Tiny language is a dialect of BASIC. Teeny Tiny compiles to C code and the compiler is implemented in Rust.
+I built this compiler by following [Austin Henley's](https://github.com/AZHenley) Teeny Tiny compiler [blog series](https://austinhenley.com/blog/teenytinycompiler1.html) which is implemented in Python. The Teeny Tiny language is a dialect of BASIC. Teeny Tiny compiles to C code and this version of the compiler is implemented in Rust.
 
 # Future Support
 Here are a list of features I'll be adding to improve the Teeny Tiny language:
